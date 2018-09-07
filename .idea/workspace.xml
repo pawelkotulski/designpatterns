@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1765b7f5-d893-4524-9bbc-2bdf81b69542" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/creational/builder.iml" afterPath="$PROJECT_DIR$/creational/builder.iml" />
-      <change beforePath="$PROJECT_DIR$/creational/pom.xml" afterPath="$PROJECT_DIR$/creational/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/creational/target/classes/builder/airlineBuilder/AircraftBuilder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/creational/target/classes/builder/airlineBuilder/AircraftDirector.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/creational/target/classes/builder/airlineBuilder/builders/BoeingAircraftBuilder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/creational/target/classes/builder/airlineBuilder/builders/GliderAircraftBuilder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/creational/target/classes/builder/airlineBuilder/builders/UltralightAirplaneBuilder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/creational/target/classes/builder/airlineBuilder/model/Plane.class" afterPath="" />
-    </list>
+    <list default="true" id="1765b7f5-d893-4524-9bbc-2bdf81b69542" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/creational/target/" />
     <ignored path="$PROJECT_DIR$/structural/target/" />
     <ignored path="$PROJECT_DIR$/behavioral/target/" />
@@ -70,7 +60,7 @@
       <file leaf-file-name="AuctionSubject.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/behavioral/src/main/java/observer/auctionObserver/AuctionSubject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
+            <state relative-caret-position="612">
               <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -549,7 +539,7 @@
       <updated>1536042953612</updated>
       <workItem from="1536042955235" duration="6605000" />
       <workItem from="1536127180085" duration="1914000" />
-      <workItem from="1536150479094" duration="5381000" />
+      <workItem from="1536150479094" duration="5437000" />
     </task>
     <servers />
   </component>
@@ -583,11 +573,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13900000" />
+    <option name="totallyTimeSpent" value="13956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -597,10 +586,10 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25506938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1074,7 +1063,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/behavioral/src/main/java/observer/auctionObserver/AuctionSubject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
+        <state relative-caret-position="612">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
