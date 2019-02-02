@@ -2,21 +2,21 @@ package proxy.CarProxy;
 
 public class ProxyCar implements Car {
 
-    public ProxyCar(RealCar realCar) {
-        this.realCar = realCar;
+    public ProxyCar(SimpleCar simpleCar) {
+        this.simpleCar = simpleCar;
     }
 
-    private RealCar realCar;
+    private SimpleCar simpleCar;
 
     public void drive(Driver driver) {
         if(isDriverAllowedToDrive(driver)) {
-
+            simpleCar.drive(driver);
         } else {
-            realCar.drive(driver);
+            throw new IllegalStateException("Driver have no licence");
         }
     }
 
     private boolean isDriverAllowedToDrive(Driver driver) {
-        return true;
+        return driver.haveLicense();
     }
 }
